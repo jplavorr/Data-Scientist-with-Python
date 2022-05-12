@@ -24,8 +24,8 @@ In this track, you'll learn how this versatile language allows you to import, cl
 
 ## Projetos:
 
-* **Investigating Netflix Movies and Guest Stars in The Office:** 
-* **The Android App Market on Google Play:** 
+* **Investigating Netflix Movies and Guest Stars in The Office: https://bit.ly/3FEuv89** 
+* **The Android App Market on Google Play: https://bit.ly/3Md5kMv** 
 
 
 
